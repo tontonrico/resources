@@ -1,10 +1,4 @@
-Dear GLPi user.
-
-For bug reports, you can open an issue here, provide us : 
-- The version of the plugin.
-- The version of your GLPI.
-- The steps to reproduce your issue.
-
-Delete this text to submit your issue.
-
-The Plugin team.
+Plugin 2.3.0
+Glpi 9.1.1
+Probleme pour créer des types de tâches :
+Intitulé -> Ressources Humaines -> Types de tâcheLe bouton "+" (ajouter un type de tâche) reste grisé
